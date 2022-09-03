@@ -1,0 +1,7 @@
+name: TGATrusted
+version: '${project.version}'
+main: com.towering.TGATrusted
+api-version: 1.19
+authors: [ Towering ]
+commands:
+  afk:
