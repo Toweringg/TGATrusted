@@ -39,6 +39,6 @@ public final class TGATrusted extends JavaPlugin implements Listener {
 
     @EventHandler
     public void onJoin(PlayerJoinEvent e){
-        e.getPlayer().setResourcePack("https://www.dropbox.com/sh/3vf66iugmcvy4lx/AAAhRv_vE5GqcldPJkmdW0PGa?dl=1");
+        e.getPlayer().setResourcePack("");
     }
 }
